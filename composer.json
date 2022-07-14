@@ -1,0 +1,21 @@
+{
+    "name": "yetopen/yii2-contextual-manual",
+    "description": "Yii2 widget that allows you to view the contextual manual for a page or part of it",
+    "type": "yii2-extension",
+    "keywords": ["contextual"," manual"," user help"],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Karima Jarmouni",
+            "email": "support@yetopen.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yetopen\\contextualManual\\": ""
+        }
+    }
+}
